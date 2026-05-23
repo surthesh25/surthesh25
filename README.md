@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Hey%2C+I'm+Surthesh+%F0%9F%91%8B;Data+Analyst+%7C+SQL+%C2%B7+Python+%C2%B7+Tableau;Building+pipelines+that+tell+stories;Open+to+Full-Time+Roles+%E2%80%93+May+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=4FA3E0&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Surthesh+%F0%9F%91%8B;Data+Analyst+%7C+SQL+%C2%B7+Python+%C2%B7+Tableau;I+build+pipelines+that+tell+stories.;15M%2B+records.+4.0+GPA.+May+2026.)](https://git.io/typing-svg)
 
 I once cut a team's analysis turnaround by 40% — not with a fancy tool, but with a Python script that automated what three people were doing manually every week.
 
