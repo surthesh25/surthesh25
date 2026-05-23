@@ -83,8 +83,8 @@ Executed SQL and Python workflows across **2,132 U.S. counties from 1990–2010*
 
 ## 📈 GitHub Stats
 
-![Surthesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=surthesh25&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surthesh25&layout=compact&theme=default&hide_border=true)
+![Surthesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=surthesh25&show_icons=true&theme=default&hide_border=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surthesh25&layout=compact&theme=default&hide_border=true&cache_seconds=86400)
 
 ---
 
