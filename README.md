@@ -98,6 +98,13 @@ This one was about scale — making sure the pipeline didn't fall over at 15M ro
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/surthesh25/surthesh25/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/surthesh25/surthesh25/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/surthesh25/surthesh25/output/github-snake.svg" />
+</picture>
+
+---
 ## 📬 Let's Talk
 
 If you're hiring a Data Analyst who can build the pipeline *and* explain the insight to a non-technical stakeholder in the same week — I'd like to talk.
