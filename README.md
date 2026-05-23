@@ -7,24 +7,31 @@ That's how I approach data. I don't wait for clean datasets or perfect condition
 Currently finishing my **MS in Data Analytics Engineering at George Mason University** (4.0 GPA, graduating May 2026). I work across the full stack — from PySpark pipelines on Databricks to production Tableau dashboards — and I've worked with datasets ranging from 4K to 15M+ records across healthcare, finance, infrastructure, and public safety.
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=surthesh25&color=4FA3E0&style=flat)
+
 ## 🛠️ What I Work With
 
-**Analytics & ML**
-`SQL` `Python` `R` `Pandas` `NumPy` `Scikit-learn` `TensorFlow` `PySpark`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 
-**Visualization & BI**
-`Tableau` `Power BI` `Matplotlib` `Seaborn` `Plotly` `Streamlit`
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
-**Data Engineering**
-`ETL/ELT Pipelines` `Star Schema Modeling` `Databricks` `Apache Spark` `REST APIs`
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-**Cloud & Databases**
-`AWS (S3, EC2, RDS)` `GCP` `MySQL` `PostgreSQL` `DynamoDB`
-
-**Tools**
-`Git` `Jupyter` `VS Code` `OpenAI API` `Docker`
-
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
 ---
 
 ## 📂 Projects That Actually Shipped
