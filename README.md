@@ -83,11 +83,16 @@ This one was about scale — making sure the pipeline didn't fall over at 15M ro
 
 ## 📈 By The Numbers
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surthesh25&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surthesh25&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
----
+| Metric | Value |
+|--------|-------|
+| 🎓 GPA | 4.0 / 4.0 |
+| 📊 Largest Dataset Processed | 15M+ records |
+| 🤖 Best Model Accuracy | 95.7% (AUC 0.991) |
+| ⚡ Analysis Turnaround Reduced | 40% |
+| 🌍 Countries in Accident Dataset | 10 |
+| 🏛️ U.S. Counties Analyzed | 2,132 |
+| 👥 Students Supported as GTA | 85+ |
+| 🏆 Research Award | Certificate of Excellence — RAEEUCCI 2022 |
 
 ## 🔭 What I'm Currently Working On
 
