@@ -7,7 +7,7 @@ That's how I approach data. I don't wait for clean datasets or perfect condition
 Currently finishing my **MS in Data Analytics Engineering at George Mason University** (4.0 GPA, graduating May 2026). I work across the full stack — from PySpark pipelines on Databricks to production Tableau dashboards — and I've worked with datasets ranging from 4K to 15M+ records across healthcare, finance, infrastructure, and public safety.
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=surthesh25&color=4FA3E0&style=flat)
 ## 🛠️ What I Work With
 
 **Analytics & ML**
