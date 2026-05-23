@@ -83,10 +83,9 @@ This one was about scale — making sure the pipeline didn't fall over at 15M ro
 ## 📈 By The Numbers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surthesh25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surthesh25&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=surthesh25&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surthesh25&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
-
 ---
 
 ## 🔭 What I'm Currently Working On
