@@ -81,11 +81,16 @@ Executed SQL and Python workflows across **2,132 U.S. counties from 1990–2010*
 
 ---
 
-## 📈 GitHub Stats
+## 📈 By The Numbers
 
-![Surthesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=surthesh25&show_icons=true&theme=default&hide_border=true&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surthesh25&layout=compact&theme=default&hide_border=true&cache_seconds=86400)
-
+| Metric | Value |
+|--------|-------|
+| 🎓 GPA | 4.0 / 4.0 |
+| 📊 Largest Dataset Processed | 15M+ records |
+| 🤖 Best Model Accuracy | 95.7% (AUC 0.991) |
+| ⚡ Analysis Turnaround Reduced | 40% |
+| 👥 Students Supported as GTA | 85+ |
+| 🌍 Countries in Accident Dataset | 10 |
 ---
 
 ## 📬 Let's Connect
