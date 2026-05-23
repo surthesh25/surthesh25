@@ -29,7 +29,7 @@ My edge: I can build the pipeline *and* present the insight in the same week.
 
 ## 📂 Featured Projects
 
-### 🏦 [GenAI-Assisted Financial Reporting Pipeline — Allwyn Corporation](https://github.com/surthesh25)
+### 🏦 [GenAI-Assisted Financial Reporting Pipeline — Allwyn Corporation](https://github.com/surthesh25/Converting-Oracle-Hyperion-Reports-to-Tableau-Using-Generative-AI-Coding-Assistants.git)
 > Python · Databricks · Spark · Tableau · Star Schema · REST API · GenAI
 
 Industry-partnered capstone with Allwyn Corporation. Built an end-to-end GenAI-assisted pipeline that consolidated **133K+ financial records** across 6 artifact formats, automated Hyperion-to-Tableau migration logic, and delivered **2 production-ready dashboards** with full validation and audit artifacts.
@@ -40,7 +40,7 @@ Industry-partnered capstone with Allwyn Corporation. Built an end-to-end GenAI-a
 
 ---
 
-### 🚗 [Road Accident Severity Prediction](https://github.com/surthesh25) &nbsp;|&nbsp; [🚀 Live Streamlit App](https://crashanalytics-ixuvy7gk9cy7z6c66fsw9h.streamlit.app/)
+### 🚗 [Road Accident Severity Prediction](https://github.com/surthesh25/Road-Accident-Severity-Prediction.git) &nbsp;|&nbsp; [🚀 Live Streamlit App](https://crashanalytics-ixuvy7gk9cy7z6c66fsw9h.streamlit.app/)
 > Python · Scikit-learn · SHAP · LIME · SMOTE · Streamlit
 
 Processed **132K+ global accident records across 10 countries**, built severity prediction models, and deployed an interactive Streamlit dashboard for policy-ready stakeholder decision-making.
@@ -71,7 +71,7 @@ Engineered scalable PySpark ETL/ELT pipelines on Databricks to ingest and proces
 
 ---
 
-### 🫁 [PM2.5 Exposure & Cardiovascular Mortality Analysis](https://github.com/surthesh25)
+### 🫁 [PM2.5 Exposure & Cardiovascular Mortality Analysis](https://github.com/surthesh25/PM2.5-Exposure-Cardiovascular-Mortality-Analysis-.git)
 > Python · R (GIS) · SQL · Plotly
 
 Executed SQL and Python workflows across **2,132 U.S. counties from 1990–2010**, applying regression modeling and R-based GIS mapping to uncover regional health disparities across 5 socioeconomic quintiles.
@@ -92,6 +92,6 @@ Executed SQL and Python workflows across **2,132 U.S. counties from 1990–2010*
 
 I'm actively looking for full-time Data Analyst roles starting May 2026. STEM OPT eligible through 2029.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-surtheshvs-blue?style=flat&logo=linkedin)](https://linkedin.com/in/surtheshvs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-surtheshvs-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/surtheshvs/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-surthesh25.github.io-green?style=flat&logo=github)](https://surthesh25.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-surtheshvs@gmail.com-red?style=flat&logo=gmail)](mailto:surtheshvs@gmail.com)
